@@ -42,6 +42,6 @@
 **作品地址**：https://github.com/smallzhu/smartCar
 
 **作品简介**：无线节能组，3D打印车模，光电摄像头循迹
-![](https://github.com/smallzhu/Portfolio/blob/main/image/微信图片_20220706144227.jpg
+![](https://github.com/smallzhu/Portfolio/blob/main/image/微信图片_20220706144227.jpg)
 
 
